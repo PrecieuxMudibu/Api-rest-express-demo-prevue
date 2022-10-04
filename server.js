@@ -7,6 +7,7 @@ const Contact = require('./models/Contact');
 
 let password = "myPassword";
 
+
 // Etape 2 :  Se connecter à la  base de données
 mongoose.connect(`mongodb+srv://Precieux:${password}@clusterexpressopenclass.g9rsjrd.mongodb.net/?retryWrites=true&w=majority`,
   { useNewUrlParser: true,
