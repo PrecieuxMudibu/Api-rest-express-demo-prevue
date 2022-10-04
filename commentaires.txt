@@ -1,0 +1,8 @@
+À partir de votre dossier backend , exécutez la commande de terminal npm init pour initialiser votre projet. Vous pouvez utiliser les options par défaut, ou les modifier si vous le souhaitez. Cependant, votre point d'entrée doit être server.js . Vous le créerez bientôt.
+
+Créez un fichier server.js à l'intérieur de votre dossier backend . Il contiendra votre premier serveur Node.
+
+Pour ajouter Express à votre projet, exécutez la commande suivante à partir de votre dossier backend :
+npm install express
+
+Créez un fichier app.js , où vous placerez votre application Express :
